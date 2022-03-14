@@ -1,0 +1,118 @@
+.header{
+    height: 4rem;
+    background-color:#23242D;
+    border-top: 5px solid red;
+}
+.nav-header{
+    height: 4rem;
+    background-color:#23242D;
+}
+.deznav{
+    background-color:#23242D;
+    padding-top: 60px;
+    width: 13.5rem;
+}
+.nav-header {
+
+    border-top: 5px solid red;
+}
+.pulse-css{
+  background: red;
+}
+.pulse-css:after, .pulse-css:before{
+    background: red;
+} 
+
+.nav-text{
+    color:white;
+}
+i{
+    color:white;
+}
+.mm-show li a{
+    color:white;
+}
+.deznav .metismenu ul a {
+    padding-left: 1.9rem;
+ 
+    color: white;
+}
+
+.header-left .dashboard_bar {
+    color: #fff;
+}
+.hamburger .line {
+    background-color: #fdfdfd !important;
+}
+.container-fluid{
+    background-color: #181818;
+}
+.content-body .container-fluid{
+    padding-left: 50px !important;
+}
+.deznav .metismenu > li.mm-active > a i {
+    color: #ffffff!important;
+}
+.deznav .metismenu > li.mm-active > a {
+    color: #ffffff!important;
+    background:#171717 !important ;
+}
+.deznav .metismenu > li > a:before {
+    background-color: red !important ;
+}
+/*  */
+
+.nav-header .hamburger.is-active .line, [data-headerbg="color_1"] .nav-header .hamburger .line {
+    background: #ffffff !important;
+}
+[data-sidebar-style="full"][data-layout="vertical"] .menu-toggle .nav-header .nav-control .hamburger .line {
+    background-color: #ffffff !important;
+}
+/*  */
+
+.deznav .metismenu ul a.mm-active {
+    text-decoration: none;
+    color: #2BC155;
+}
+.content-body {
+   
+    padding-top: 5rem;
+}
+.ProName{
+    color: #fdfdfd;
+}
+.dropdown-menu {
+   background-color: #23242D;
+}
+.dropdown-menu .dropdown-item {
+    color: #fdfdfd;
+    
+}
+.dropdown-menu .dropdown-item:hover, .dropdown-menu .dropdown-item:focus, .dropdown-menu .dropdown-item:active, .dropdown-menu .dropdown-item.active {
+    color: #ffffff !important;
+    background: #181818;
+}
+.content-body {
+    padding-top: 5rem;
+    background-color: #181818;
+}
+.container-fluid{
+    background-color: #23242D;
+}
+.content-body {
+    padding-top: 5.5rem!important;
+}
+#main-wrapper{
+    background-color: #181818;
+}
+.footer {
+    padding-left: 21.563rem;
+    background-color: #181818;
+}
+
+@media only screen and (min-width: 1200px) and (max-width: 1400px){
+.content-body {
+    margin-left: 15rem;
+    /* padding-top: 5rem; */
+}
+}
